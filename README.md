@@ -5,7 +5,7 @@ The Official PyTorch implementation of “Dynamically Shifting Multimodal Repres
 We will release the codes and datasets after paper accepted.
 
 ## Overview of Model
-![Task Introduction](<img src="figures/Introduction.png" width="100px">)
-![Main_Model](figures/MainModel.png)
-![Main_Module](figures/MainModel1.png)
-![Main_Module](figures/MainModel2.png)
+![Introduction](figures/Introduction.png)
+![MainModel](figures/MainModel.png#w80)
+![MainModel1](figures/MainModel1.png#w40)
+![MainModel2](figures/MainModel2.png#w40)
