@@ -1,3 +1,3 @@
-# MSG-MBA (Still Sorting out...)
+# MSG-MBA
 
-The official PyTorch implementation of “Dynamically Shifting Multimodal Representations via Hybrid-Modal Attention for Multimodal Sentiment Analysis”. 
+The experiment results and figures of “Dynamically Shifting Multimodal Representations via Hybrid-Modal Attention for Multimodal Sentiment Analysis”. 
